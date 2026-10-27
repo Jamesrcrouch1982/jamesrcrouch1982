@@ -1,16 +1,18 @@
-<!--MYCC-PORTFOLIO-META:%7B%22v%22%3A3%2C%22github%22%3A%22Jamesrcrouch1982%22%2C%22name%22%3A%22%22%2C%22email%22%3A%22%22%2C%22linkedin%22%3A%22%22%2C%22resume%22%3A%22%22%2C%22bio%22%3A%22%22%2C%22themeIdx%22%3A0%2C%22skills%22%3A%5B%5D%2C%22headlines%22%3A%5B%5D%2C%22customHeadlines%22%3A%5B%5D%2C%22customSkills%22%3A%5B%5D%2C%22certs%22%3A%5B%5D%2C%22customLabs%22%3A%7B%221%22%3A%5B%5D%2C%222%22%3A%5B%5D%2C%223%22%3A%5B%5D%2C%224%22%3A%5B%5D%2C%225%22%3A%5B%5D%2C%226%22%3A%5B%5D%7D%7D-->
+
+
+
+
+<!-- Portfolio README -->
 
 <div align="center">
 
-<img src="https://github.com/Jamesrcrouch1982.png" width="150" style="border-radius:50%;border:4px solid #0969da"/>
+<img src="https://github.com/Jamesrcrouch1982.png" width="150" alt="James Crouch" style="border-radius:50%;" />
 
-# Hi there, I'm Your Name
+# James Crouch
 
-**Your Name**
+### ITSA Student | Aspiring IT Professional
 
-*ITSA Student*
-
-[![GITHUB](https://img.shields.io/badge/GITHUB-%40Jamesrcrouch1982-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jamesrcrouch1982)
+[![GitHub](https://img.shields.io/badge/GitHub-@Jamesrcrouch1982-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jamesrcrouch1982)
 
 </div>
 
@@ -18,13 +20,28 @@
 
 ## Professional Summary
 
-*Add your professional summary above to display it here.*
+Dedicated ITSA student with a passion for networking, cybersecurity, cloud technologies, and systems administration. Continuously developing technical skills through hands-on labs, coursework, and personal projects. Committed to building practical experience in IT support, network infrastructure, and information security.
 
 ---
 
-## Skills Learned
+## Technical Skills
 
-*Select skills in the builder to display them here.*
+- Networking Fundamentals
+- Windows Administration
+- Linux Fundamentals
+- Cybersecurity Concepts
+- Active Directory
+- Virtualization
+- Cloud Computing
+- Hardware & Software Troubleshooting
+- Microsoft 365
+- Git & GitHub
+
+---
+
+## Certifications & Training
+
+*Currently pursuing industry-recognized certifications and ITSA coursework.*
 
 ---
 
@@ -33,47 +50,75 @@
 <details>
 <summary><strong>Course 1: Networking I</strong></summary>
 
-*No labs added yet.*
+- Network Configuration Labs
+- Basic Routing & Switching
+- TCP/IP Fundamentals
 
 </details>
 
 <details>
 <summary><strong>Course 2: Computer & Security Essentials</strong></summary>
 
-*No labs added yet.*
+- PC Hardware Labs
+- Security Fundamentals
+- Operating System Installation & Configuration
 
 </details>
 
 <details>
 <summary><strong>Course 3: Operating Systems I</strong></summary>
 
-*No labs added yet.*
+- Windows Administration
+- Linux Fundamentals
+- User & System Management
 
 </details>
 
 <details>
 <summary><strong>Course 4: Security I</strong></summary>
 
-*No labs added yet.*
+- Threat Analysis
+- Security Policies
+- Risk Assessment
 
 </details>
 
 <details>
 <summary><strong>Course 5: Server I</strong></summary>
 
-*No labs added yet.*
+- Server Deployment
+- Active Directory Services
+- Group Policy Management
 
 </details>
 
 <details>
 <summary><strong>Course 6: Networking & Security I</strong></summary>
 
-*No labs added yet.*
+- Advanced Networking Concepts
+- Network Security
+- Infrastructure Monitoring
 
 </details>
 
 ---
 
+## GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jamesrcrouch1982&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jamesrcrouch1982&layout=compact&theme=github_dark)
+
+---
+
+## Connect With Me
+
+- GitHub: https://github.com/Jamesrcrouch1982
+
+---
+
 <div align="center">
-<sub>Built with the <a href="https://mycceducation.azurewebsites.net">MyComputer Career Digital Portfolio Builder</a> · ITSA Program</sub>
+
+**Building skills one project at a time.**
+
 </div>
