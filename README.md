@@ -47,45 +47,73 @@ Dedicated MYCC student with a passion for networking, cybersecurity, cloud techn
 2. Microsoft Certified: Azure AI Fundamentals
 Earned on October 28, 2026
 *https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/.*[
+
 Introduction to AI Concepts – Part I: Modules 1-4
+
 Context Module Sub Header
+
 Introduction to AI Concepts – Part II: Modules 5-7
+
 Microsoft Learn: Get started with AI in Azure: Modules 1-5 Links to an external site.
 External Url
+
 Microsoft Learn: Develop generative AI apps in Azure: Modules 3-4 Links to an external site.
+
 Microsoft Learn: Introduction to Natural Language Processing Concepts – Part I: Modules 1-3 Links to an external site.
 External Url
+
 Microsoft Learn: Introduction to Natural Language Processing Concepts – Part II: Module 4 
 Microsoft Learn: Get started with text analysis in Azure: Modules 2 & 4 Links to an external site.
 External Url
+
 Microsoft Learn: Introduction to AI Speech Concepts: Modules 2-4 
+
 Get started with text analysis in Microsoft Foundry
 External Tool
+
 Get started with speech in Microsoft Foundry
+
 Microsoft Learn: Get started with speech in Azure: Modules 2-4 
+
 Analyze and Generate Text-Based Sentiment by Using Azure AI Services 
+
 Integrate Azure AI Immersive Reader Into Your Application by Using Its SDK 
+
 Azure AI Fundamentals: Working with AI Vision
+
 Microsoft Learn: Introduction to computer vision concepts: Modules 1-6 Links to an external site.
 External Url
+
 Microsoft Learn: Get started with computer vision in Azure: Modules 1-4 Links to an external site.
 External Url
+
 Microsoft Learn: Explore Computer Vision
+
 Generate Insights from Images by Using Azure AI Vision Services
+
 Generate Image Descriptions from Text [
+
 Azure AI Vision: Optical Character Recognition (OCR)
+
 Azure AI Fundamentals: Azure Document & Optical Character Recognition
+
 Microsoft Learn: Introduction to AI-powered information extraction concepts: Modules 1-4 Links to an external site.
 External Url
+
 Exercise – Explore AI information extraction Links to an external site.
 External Url
+
 Microsoft Learn: Get started with AI-powered information extraction in Azure: Modules 2-3 
+
 ChatGPT Prompt Engineering Examples & Use Case
 
 ChatGPT & Its Practical Use Cases
 External Tool
+
 Gemini for Everyday Tasks
+
 External Tool
+
 Finetuning Your ChatGPT Prompts
 
 
