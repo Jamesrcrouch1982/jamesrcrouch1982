@@ -39,6 +39,8 @@ Dedicated MYCC student with a passion for networking, cybersecurity, cloud techn
 
 ---
 
+
+
 **CERTIFICATION AND TRAINING
 
 Net I Cert 8.2026 133 (3).pdf](https://github.com/user-attachments/files/34127359/Net.I.Cert.8.2026.133.3.pdf)
