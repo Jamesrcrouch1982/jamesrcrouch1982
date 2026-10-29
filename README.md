@@ -42,9 +42,9 @@ Dedicated ITSA student with a passion for networking, cybersecurity, cloud techn
 ## Certifications & Training
 
 
-1.Net I Cert 8.2026 133 (3).pdf](https://github.com/user-attachments/files/34127359/Net.I.Cert.8.2026.133.3.pdf)
+1. Net I Cert 8.2026 133 (3).pdf](https://github.com/user-attachments/files/34127359/Net.I.Cert.8.2026.133.3.pdf)
 
-2.Microsoft Certified: Azure AI Fundamentals
+2. Microsoft Certified: Azure AI Fundamentals
 Earned on October 28, 2026
 *https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/.*
 [
