@@ -10,7 +10,7 @@
 
 # James Crouch
 
-### ITSA Student | Aspiring IT Professional
+### MYCC Student | Aspiring IT Professional
 
 [![GitHub](https://img.shields.io/badge/GitHub-@Jamesrcrouch1982-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jamesrcrouch1982)
 
@@ -20,7 +20,7 @@
 
 ## Professional Summary
 
-Dedicated ITSA student with a passion for networking, cybersecurity, cloud technologies, and systems administration. Continuously developing technical skills through hands-on labs, coursework, and personal projects. Committed to building practical experience in IT support, network infrastructure, and information security.
+Dedicated MYCC student with a passion for networking, cybersecurity, cloud technologies, and systems administration. Continuously developing technical skills through hands-on labs, coursework, and personal projects. Committed to building practical experience in IT support, network infrastructure, and information security.
 
 ---
 
