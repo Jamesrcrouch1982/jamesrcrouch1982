@@ -41,6 +41,11 @@ Dedicated ITSA student with a passion for networking, cybersecurity, cloud techn
 
 ## Certifications & Training
 
+Certification
+
+Microsoft Certified: Azure AI Fundamentals
+Earned on October 28, 2026
+
 *https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/.*
 
 ## Course Portfolio
