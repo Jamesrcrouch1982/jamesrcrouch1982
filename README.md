@@ -41,9 +41,7 @@ Dedicated ITSA student with a passion for networking, cybersecurity, cloud techn
 
 ## Certifications & Training
 
-*Currently pursuing industry-recognized certifications and ITSA coursework.*
-
----
+*https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/.*
 
 ## Course Portfolio
 
