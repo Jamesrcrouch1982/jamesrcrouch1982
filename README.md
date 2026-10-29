@@ -110,7 +110,7 @@ Finetuning Your ChatGPT Prompts
 
 
 
-##. Course Portfolio
+ COUR5E PORTFOLIO
 
 <details>
 <summary><strong>Course 1: Networking I</strong></summary>
